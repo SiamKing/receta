@@ -1,5 +1,5 @@
 FactoryGirl.define do
-  factory :recetum do
+  factory :recipe do
     name "MyString"
     ingredients "MyText"
   end

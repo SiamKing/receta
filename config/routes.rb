@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
 
-  resources :receta
+  resources :recipes
   root to: 'application#angular_home'
 end

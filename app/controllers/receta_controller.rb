@@ -1,2 +1,0 @@
-class RecetaController < ApplicationController
-end
