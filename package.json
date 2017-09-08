@@ -6,6 +6,7 @@
     "@angular/platform-browser": "^4.4.0-RC.0",
     "@angular/platform-browser-dynamic": "^4.4.0-RC.0",
     "angular": "1.5.8",
+    "angular-bootstrap": "latest",
     "autoprefixer": "^7.1.4",
     "babel-core": "^6.26.0",
     "babel-loader": "7.x",
